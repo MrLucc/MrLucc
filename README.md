@@ -26,8 +26,9 @@ Possuo conhecimento em HTML5, CSS3, Javascript, ReactJS, Java e Git. ✔
   <img align="center" alt="Angular" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="IntelliJ" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
   <img align="center" alt="Spring"  height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Vscode"  height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+ <img align="center" alt="IntelliJ" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
 </div>
  <br>
  <div> 
