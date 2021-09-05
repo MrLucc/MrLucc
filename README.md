@@ -2,7 +2,7 @@
 
 Oi meu nome é Lucas, sou estudante na área de desenvolvimento Full Stack. <br>
 Estou extremamente focado em conhecer novas linguagens e ferramentas, além de me aperfeiçoar nas linguagens que já conheço. 👌<br>
-Possuo conhecimento em HTML5, CSS3, AngularJs, Intellij, Vscode, Java e Git. ✔
+Possuo conhecimento em Java, AngularJs, Spring, HTML5, CSS3, MYSQL, Git, Vscode e Intellij. ✔
 
 - 👨‍🎓 Possuo formação como Técnico Informatica.
 - 🌱 Estou realizando um curso na área de desenvolvimento Full Stack pela Generation Brasil.
