@@ -29,9 +29,10 @@ Possuo conhecimento em Java, AngularJs, Spring, HTML5, CSS3, MYSQL, Git, Vscode 
  <img align="center" alt="Mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
  <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <img align="center" alt="Vscode"  height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
- <img align="center" alt="IntelliJ" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg"> 
+ <img align="center" alt="IntelliJ" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
+ <img align="right" alt="anime" src="https://64.media.tumblr.com/33cec5fffbef6cf57aed4e538a85407c/tumblr_onxl2newUq1w05w8zo1_500.gifv">
 </div>
- <br>
+  <br>
  <div> 
   <a href="https://www.linkedin.com/in/lucas-silva-312454207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:silvalucs212@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
