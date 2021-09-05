@@ -1,4 +1,4 @@
-### Olá, seja bem vindo(a) ao meu Github. 👋
+### Olá. 👋
 
 Oi meu nome é Lucas, sou estudante na área de desenvolvimento Full Stack. <br>
 Estou extremamente focado em conhecer novas linguagens e ferramentas, além de me aperfeiçoar nas linguagens que já conheço. 👌<br>
