@@ -30,7 +30,7 @@ Estou extremamente focado em conhecer novas linguagens e ferramentas, além de m
  <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <img align="center" alt="Vscode"  height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
  <img align="center" alt="IntelliJ" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
- <img align="right" alt="anime" src=https://i.imgur.com/g6ND9hC.gif">
+ <img height="180em" width="420em" align="right" alt="anime" src=https://i.imgur.com/g6ND9hC.gif">
 </div>
   <br>
  <div> 
