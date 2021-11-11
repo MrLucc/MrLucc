@@ -9,9 +9,7 @@ Estou extremamente focado em conhecer novas linguagens e ferramentas, além de m
 - 🤔 Procuro sempre melhorar as minhas habilidades e auxiliar outras pessoas a se desenvolverem.
 - 💒 Gosto muito de jogar nas horas vagas, basketball e de estar com a família.
 
-<!--
-- 📫 How to reach me: ...
--->
+
 
  <div>
   <a href="https://github.com/MrLucc">
@@ -34,7 +32,7 @@ Estou extremamente focado em conhecer novas linguagens e ferramentas, além de m
 </div>
   <br>
  <div> 
-  <a href="https://www.linkedin.com/in/lucas-silva-312454207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/silva-slucas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
  </div>
  
