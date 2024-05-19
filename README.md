@@ -7,7 +7,6 @@
  <div>
   <a href="https://github.com/MrLucc">
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=MrLucc&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrLucc&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 <h4>Linguagens e Ferramentas:</h4>
