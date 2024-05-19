@@ -6,8 +6,7 @@
 
  <div>
   <a href="https://github.com/MrLucc">
-  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=MrLucc&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-</div>
+ </div>
 
 <h4>Linguagens e Ferramentas:</h4>
 <div>
