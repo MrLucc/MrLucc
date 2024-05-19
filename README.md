@@ -15,7 +15,6 @@
  <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  <img align="center" alt="Spring"  height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
  <img align="center" alt="Mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
- <img height="180em" width="420em" align="right" alt="anime" src=https://i.imgur.com/g6ND9hC.gif">
 </div>
   <br>
  <div> 
